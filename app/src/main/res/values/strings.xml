@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Alien Vs Mato</string>
+    <string name="results_format">Shots fired: %1$d\nTotal time: %2$.1f</string>
+    <string name="reset_game">Reset Game</string>
+    <string name="win">You win!</string>
+    <string name="lose">You lose!</string>
+    <!--string name="btn_start_string">INICIAR INVASORES DO ESPAÇO</string -->
+</resources>
