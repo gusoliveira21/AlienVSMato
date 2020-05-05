@@ -7,6 +7,6 @@
   <li>Desviar das bolas de lamas jogadas pelos inimigos</li>
   <li>Personagem anda na horizontal</li>
   <li>Personagem lança esferas azuis nas lamas para as destruir</li>
-  <li>A princípio, a barreira preta localizada a cima deveria recochetear as balas inimigas</li>
+  <li>A princípio, a barreira preta localizada a cima deveria recochetear as balas inimigas, mas não consegui!</li>
 </ul>
 
