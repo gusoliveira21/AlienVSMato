@@ -1,5 +1,5 @@
-## AlienVSMato
-<h6>Projeto da Faculdade</h1>
+## 👽 AlienVSMato
+<h6>Projeto MiniGame</h1>
 <ul>
   <li>O objetivo é destruir todas as gramas a cima do personagem.</li>
   <li>Desviar das bolas de lamas jogadas pelos inimigos.</li>
